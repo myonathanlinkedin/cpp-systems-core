@@ -1,0 +1,11 @@
+{
+  "topic": "Orama - A complete search engine and RAG pipeline in your browser, server or edge network",
+  "language": "C++",
+  "extension": ".cpp",
+  "category": "cpp",
+  "timestamp_utc": "2026-10-05T14:17:15.545377+00:00",
+  "source_file": "core.cpp",
+  "files": [
+    "core.cpp"
+  ]
+}
