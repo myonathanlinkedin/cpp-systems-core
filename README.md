@@ -9,37 +9,37 @@
 
 ---
 
-## 🧭 Navigasi & Direktori Algoritma (Auto-Updated)
+## 🧭 Algorithmic Directory & Navigation (Auto-Updated)
 
-| # | Modul / Algoritma | Kategori | Kompleksitas Waktu | Kompleksitas Ruang | Test Driver | Link Source |
+| # | Module / Algorithm | Category | Time Complexity | Space Complexity | Verification Driver | Source Code |
 |---|---|---|:---:|:---:|:---:|:---:|
-| 1 | **Self-Balancing AVL Tree with Full Rotation Engine** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [Buka Modul ↗](algorithms/20261005_054315_self-balancing_avl_tree_with_f/main.cpp) |
+| 1 | **Self-Balancing AVL Tree with Full Rotation Engine** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_054315_self-balancing_avl_tree_with_f/main.cpp) |
 
 ---
 
 ## ⚡ Quickstart & Local Verification
 
-Untuk menjalankan dan menguji seluruh suite algoritma di repositori ini secara lokal:
+To run and verify the entire algorithmic test suite in this repository locally:
 
 ```bash
-# Clone repositori
+# Clone repository
 git clone https://github.com/myonathanlinkedin/cpp-systems-core.git
 cd cpp-systems-core
 
-# Jalankan semua verification suite
+# Execute verification test suite
 g++ -std=c++20 main.cpp -O3 && ./a.out
 ```
 
 ---
 
 <details>
-<summary><b>🔍 Standar Kualitas & Arsitektur (Klik untuk membuka)</b></summary>
+<summary><b>🔬 Architectural Standards & Invariant Guarantees (Click to expand)</b></summary>
 
-* **Deterministic Tests**: Setiap modul dilengkapi unit test driver mandiri dengan boundary checking.
-* **Security & Clean Code**: Kode diproduksi tanpa external malicious dependencies, mengikuti idiomatic linting bahasa C++.
-* **Ecosystem Sync**: Repositori ini tersinkronisasi otomatis dengan central monorepo [myonathanlinkedin/codes_container](https://github.com/myonathanlinkedin/codes_container).
+* **Deterministic Tests**: Every module is backed by an automated verification driver with rigorous boundary assertion tests.
+* **Security & Clean Code**: Formally constructed with zero malicious external dependencies, strictly adhering to idiomatic C++ standard library practices.
+* **Ecosystem Sync**: Automatically mirrored and synchronized from the central monorepo engine [myonathanlinkedin/codes_container](https://github.com/myonathanlinkedin/codes_container).
 </details>
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-05 05:43 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-05 05:55 UTC*</sub>

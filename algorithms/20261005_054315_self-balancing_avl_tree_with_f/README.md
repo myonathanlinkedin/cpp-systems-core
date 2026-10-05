@@ -6,26 +6,26 @@
 ---
 
 ## 📐 Mathematical & Architectural Overview
-Modul ini mengimplementasikan algoritma dan struktur data **Self-Balancing AVL Tree with Full Rotation Engine** menggunakan kaidah idiomatik **C++** modern tanpa ketergantungan pustaka eksternal (*zero external dependencies*).
+This module implements the algorithm and data structure **Self-Balancing AVL Tree with Full Rotation Engine** menggunakan kaidah idiomatik **C++** modern tanpa ketergantungan pustaka eksternal (*zero external dependencies*).
 
-### 🔍 Karakteristik Desain:
+### 🔍 Design Characteristics:
 * **Memory Safety & Layout**: Mengoptimalkan alokasi memori dan *cache locality* untuk performa maksimal.
 * **Deterministic Guarantees**: Memastikan *invariants* terpenuhi di setiap *state transition*.
 * **Thread Safety**: Dirancang aman terhadap kondisi balapan (*race conditions*) atau terisolasi secara deterministik.
 
 ---
 
-## 📊 Analisis Kompleksitas (Big-O Complexity)
+## 📊 Big-O Complexity Analysis
 
-| Dimensi | Kompleksitas | Catatan Kinerja |
+| Dimension | Complexity | Performance Profile |
 |---|:---:|---|
-| **Waktu (Best Case)** | $\mathcal{O}(1)$ s/d $\mathcal{O}(\log N)$ | Tergantung pola akses data dan *cache hit*. |
-| **Waktu (Average / Worst)** | $\mathcal{O}(N)$ s/d $\mathcal{O}(N \log N)$ | Optimal secara asimtotik untuk kasus umum. |
-| **Ruang (Space / Memory)** | $\mathcal{O}(1)$ s/d $\mathcal{O}(N)$ | Minim overhead alokasi memori heap tambahan. |
+| **Time (Best Case)** | $\mathcal{O}(1)$ s/d $\mathcal{O}(\log N)$ | Tergantung pola akses data dan *cache hit*. |
+| **Time (Average / Worst)** | $\mathcal{O}(N)$ s/d $\mathcal{O}(N \log N)$ | Asymptotically optimal for generalized workloads. |
+| **Space (Memory Footprint)** | $\mathcal{O}(1)$ s/d $\mathcal{O}(N)$ | Minimal heap allocation overhead. |
 
 ---
 
-## 🧪 Verifikasi & Unit Test Driver
+## 🧪 Verification & Unit Test Driver
 File `main.cpp` dilengkapi dengan rangkaian unit test mandiri (*self-contained test assertions*) yang menguji:
 1. **Happy Path**: Verifikasi alur normal dengan input standar.
 2. **Edge Cases**: Penanganan input batas (kosong, nilai ekstrem, overflow).
@@ -33,10 +33,10 @@ File `main.cpp` dilengkapi dengan rangkaian unit test mandiri (*self-contained t
 
 ---
 
-## ⚡ Cara Menjalankan & Menguji Secara Mandiri
+## ⚡ How to Run & Verify Locally
 
 ```bash
-# Jalankan test runner untuk modul ini
+# Execute test runner for this module
 g++ -std=c++20 main.cpp -o main && ./main
 ```
 
