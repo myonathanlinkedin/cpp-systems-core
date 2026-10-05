@@ -2,7 +2,7 @@
 > Modern C++20 low-latency data structures, SIMD optimizations, and cache-coherent algorithms. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/cpp-systems-core/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-7%20Modules-blue?style=for-the-badge&logo=cpp)](https://github.com/myonathanlinkedin/cpp-systems-core)
+[![Total Modules](https://img.shields.io/badge/Algorithms-8%20Modules-blue?style=for-the-badge&logo=cpp)](https://github.com/myonathanlinkedin/cpp-systems-core)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/cpp-systems-core)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -20,6 +20,7 @@
 | 5 | **Vector Clock Distributed Event Ordering Mechanism** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_064258_vector_clock_distributed_event/main.cpp) |
 | 6 | **Raft Consensus Protocol Leader Election State Engine** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_065642_raft_consensus_protocol_leader/main.cpp) |
 | 7 | **Orama - A complete search engine and RAG pipeline in your browser, server or edge network** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_141715_orama_-_a_complete_search_engi/core.cpp) |
+| 8 | **Golang tool to check SPF, DKIM, TLSA, and TLS settings for mailservers** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_211827_golang_tool_to_check_spf__dkim/core.cpp) |
 
 ---
 
@@ -48,4 +49,4 @@ g++ -std=c++20 main.cpp -O3 && ./a.out
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-05 14:17 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-05 21:18 UTC*</sub>
