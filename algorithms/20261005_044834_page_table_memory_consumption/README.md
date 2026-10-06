@@ -1,20 +1,20 @@
 # Page Table Memory Consumption (C++)
 
-> High-performance **Page Table Memory Consumption** primitive implemented in idiomatic **C++**. Built from scratch using standard library constructs with zero external dependencies.
+> Self-contained **Page Table Memory Consumption** algorithmic primitive written in idiomatic **C++**. Built from scratch using standard library constructs with zero external dependencies.
 
 ## Overview & Mechanics
 
 The implementation focuses on the core mathematical properties of **Page Table Memory Consumption**:
 * **Data Organization**: Built upon `Standard Memory Primitives` to ensure predictable traversal and storage overhead.
-* **Safety Invariants**: Buffer boundaries are strictly verified to prevent out-of-bounds access and memory leak hazards.
-* **Execution Guarantees**: State consistency is verified after every mutation through formal invariant validation.
+* **Safety Invariants**: Buffer boundaries and collection indices are explicitly validated to prevent out-of-bounds access.
+* **Execution Guarantees**: State consistency is verified after mutations through assertion test coverage.
 
 ## Complexity Profile
 
 * **Time Complexity**:
-  * Fast Path (Best): `$O(1)$`
-  * Generalized (Avg / Worst): `$O(N)$`
-* **Space Footprint**: `$O(N)$` resident heap / stack overhead.
+  * Fast Path (Best): `O(1)`
+  * Generalized (Avg / Worst): `O(N)`
+* **Space Footprint**: `O(N)` resident heap / stack overhead.
 
 ## Verification & Test Scenarios
 

@@ -1,12 +1,12 @@
 # The Deutsch-Jozsa Algorithm Explained: Quantum Complexity & Qiskit
 
-High-performance **The Deutsch-Jozsa Algorithm Explained: Quantum Complexity & Qiskit** primitive implemented in idiomatic **C++**. Built from scratch using standard library constructs with zero external dependencies.
+Self-contained **The Deutsch-Jozsa Algorithm Explained: Quantum Complexity & Qiskit** algorithmic primitive written in idiomatic **C++**. Built from scratch using standard library constructs with zero external dependencies.
 
 ### Core Highlights
 * **Language & Standard**: Modern `C++` standard library conventions.
 * **Architecture Pattern**: Designed for `Algorithmic Engineering` using `Standard Memory Primitives`.
-* **Runtime Overhead**: Contiguous memory layouts are favored over scattered heap allocations for optimal traversal speed.
-* **Concurrency & Safety**: State transitions adhere to strict ordering guarantees with explicit synchronization fences where necessary.
+* **Runtime Overhead**: Contiguous memory layouts and standard collections are favored for straightforward iteration and access.
+* **Concurrency & Safety**: State transitions follow clear ordering guarantees with explicit validation at each phase.
 
 ---
 
@@ -14,9 +14,9 @@ High-performance **The Deutsch-Jozsa Algorithm Explained: Quantum Complexity & Q
 
 | Dimension | Bound |
 | :--- | :--- |
-| **Time (Best Case)** | `$O(1)$` |
-| **Time (Worst Case)** | `$O(N \log N)$` |
-| **Auxiliary Space** | `$O(N)$` |
+| **Time (Best Case)** | `O(1)` |
+| **Time (Worst Case)** | `O(N log N)` |
+| **Auxiliary Space** | `O(N)` |
 
 ---
 
@@ -30,4 +30,4 @@ g++ -std=c++20 -O3 main.cpp -o runner && ./runner
 
 ---
 
-*Curated as part of the Polyglot Systems Lab • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)*
+*Part of the Polyglot Systems Lab • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)*

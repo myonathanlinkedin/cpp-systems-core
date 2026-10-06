@@ -12,9 +12,9 @@ The implementation focuses on the core mathematical properties of **Tarjan Stron
 ## Complexity Profile
 
 * **Time Complexity**:
-  * Fast Path (Best): `$O(V + E)$`
-  * Generalized (Avg / Worst): `$O((V + E) \log V)$`
-* **Space Footprint**: `$O(V + E)$` resident heap / stack overhead.
+  * Fast Path (Best): `O(V + E)`
+  * Generalized (Avg / Worst): `O((V + E) log V)`
+* **Space Footprint**: `O(V + E)` resident heap / stack overhead.
 
 ## Verification & Test Scenarios
 

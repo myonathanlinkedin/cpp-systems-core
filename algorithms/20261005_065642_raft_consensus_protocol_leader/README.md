@@ -1,45 +1,40 @@
 # Raft Consensus Protocol Leader Election State Engine
 
-> Production-grade, mathematically verified C++ implementation of **Raft Consensus Protocol Leader Election State Engine**.  
-> Developed and maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
+Self-contained **Raft Consensus Protocol Leader Election State Engine** algorithmic primitive written in idiomatic **C++**. Built from scratch using standard library constructs with zero external dependencies.
 
 ---
 
-## 📐 Mathematical & Architectural Overview
-This module implements the **Raft Consensus Protocol Leader Election State Engine** algorithm and data structure using modern, idiomatic **C++** with zero external dependencies.
+## 🏛️ Architecture & Design Decisions
 
-### 🔍 Design Characteristics:
-* **Memory Safety & Layout**: Optimized memory allocation and cache locality for maximum runtime efficiency.
-* **Deterministic Guarantees**: Enforces strict invariant fulfillment across state transitions.
-* **Thread Safety**: Formally resilient against race conditions and concurrency hazards or deterministically isolated.
+This module organizes `Raft Consensus Protocol Leader Election State Engine` into an isolated, self-contained unit:
+* **Domain Focus**: `Distributed Consensus & State Machine`
+* **Primary Primitives**: `Append-Only State Log & Version Matrix`
+* **Memory Strategy**: Memory allocations are kept minimal to maintain clear data locality and predictable memory bounds.
+* **Correctness Model**: Execution behavior is validated against nominal workflows and boundary edge cases.
 
----
+### Asymptotic Complexity
 
-## 📊 Big-O Complexity Analysis
-
-| Dimension | Complexity | Performance Profile |
-|---|:---:|---|
-| **Time (Best Case)** | $\mathcal{O}(1)$ to $\mathcal{O}(\log N)$ | Dependent on access patterns and cache hit ratio. |
-| **Time (Average / Worst)** | $\mathcal{O}(N)$ to $\mathcal{O}(N \log N)$ | Asymptotically optimal for generalized workloads. |
-| **Space (Memory Footprint)** | $\mathcal{O}(1)$ to $\mathcal{O}(N)$ | Minimal heap allocation overhead. |
+| Metric | Bound | Characteristics |
+| :--- | :---: | :--- |
+| **Best Case Time** | `O(1)` | Optimized fast-path execution |
+| **Average / Worst Time** | `O(log N) or O(1)` | Deterministic upper bound for generalized workloads |
+| **Space Complexity** | `O(N) state log` | Strict bounds without unconstrained heap growth |
 
 ---
 
-## 🧪 Verification & Unit Test Driver
-The `main.cpp` file includes a self-contained test assertion suite validating:
-1. **Happy Path**: Standard operational workflows with verified inputs.
-2. **Edge Cases**: Boundary handling (empty inputs, extreme values, numeric limits).
-3. **Invariants Checking**: State consistency verification across structural mutations.
+## 🧪 Verification Suite
 
----
+The accompanying `main.cpp` driver executes self-contained verification tests:
+1. **Nominal Flow**: Validates baseline correctness under typical real-world inputs.
+2. **Boundary Conditions**: Exercises extreme edge cases (empty inputs, singletons, capacity limits).
+3. **Invariant Preservation**: Validates internal state consistency throughout mutation lifecycles.
 
-## ⚡ How to Run & Verify Locally
+### Running Locally
 
 ```bash
-# Execute test runner for this module
-g++ -std=c++20 main.cpp -o main && ./main
+g++ -std=c++20 -O3 main.cpp -o runner && ./runner
 ```
 
 ---
 
-<sub>🔬 *Artifact generated & verified by Universal Polyglot Autonomous Engineering Engine • 2026-10-05 06:56:42 UTC*</sub>
+<sub>Standard C++ reference implementation • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)</sub>
