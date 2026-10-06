@@ -1,0 +1,14 @@
+{
+  "topic": "The Deutsch-Jozsa Algorithm Explained: Quantum Complexity & Qiskit",
+  "language": "C++",
+  "extension": ".cpp",
+  "category": "cpp",
+  "timestamp_utc": "2026-10-06T08:01:27.694105+00:00",
+  "source_file": "main.cpp",
+  "files": [
+    "types.hpp",
+    "core.hpp",
+    "core.cpp",
+    "main.cpp"
+  ]
+}
