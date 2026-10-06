@@ -1,0 +1,12 @@
+{
+  "topic": "Skip List Probabilistic Search and Insertion Engine",
+  "language": "C++",
+  "extension": ".cpp",
+  "category": "cpp",
+  "timestamp_utc": "2026-10-06T16:12:00.247514+00:00",
+  "source_file": "types.hpp",
+  "files": [
+    "types.hpp",
+    "core.hpp"
+  ]
+}

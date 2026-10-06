@@ -2,7 +2,7 @@
 > Modern C++20 low-latency data structures, SIMD optimizations, and cache-coherent algorithms. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/cpp-systems-core/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-18%20Modules-blue?style=for-the-badge&logo=cpp)](https://github.com/myonathanlinkedin/cpp-systems-core)
+[![Total Modules](https://img.shields.io/badge/Algorithms-19%20Modules-blue?style=for-the-badge&logo=cpp)](https://github.com/myonathanlinkedin/cpp-systems-core)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/cpp-systems-core)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -31,6 +31,7 @@
 | 16 | **B-Tree Multiway Balanced Search Tree Node Splitter** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_102026_b-tree_multiway_balanced_searc/main.cpp) |
 | 17 | **Thread-Safe Bounded Blocking Queue with Condition Variables** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_150619_thread-safe_bounded_blocking_q/core.cpp) |
 | 18 | **Thread-Safe Bounded Blocking Queue with Condition Variables** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_153242_thread-safe_bounded_blocking_q/core.cpp) |
+| 19 | **Skip List Probabilistic Search and Insertion Engine** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_161200_skip_list_probabilistic_search) |
 
 ---
 
@@ -59,4 +60,4 @@ g++ -std=c++20 main.cpp -O3 && ./a.out
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-06 15:33 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-06 16:12 UTC*</sub>
