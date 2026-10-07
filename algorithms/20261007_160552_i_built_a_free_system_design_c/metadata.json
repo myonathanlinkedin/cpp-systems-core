@@ -1,0 +1,13 @@
+{
+  "topic": "I built a free system design course where your architecture has to survive simulated",
+  "language": "C++",
+  "extension": ".cpp",
+  "category": "cpp",
+  "timestamp_utc": "2026-10-07T16:05:52.355114+00:00",
+  "source_file": "main.cpp",
+  "files": [
+    "types.hpp",
+    "core.cpp",
+    "main.cpp"
+  ]
+}

@@ -2,7 +2,7 @@
 > Modern C++20 low-latency data structures, SIMD optimizations, and cache-coherent algorithms. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/cpp-systems-core/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-22%20Modules-blue?style=for-the-badge&logo=cpp)](https://github.com/myonathanlinkedin/cpp-systems-core)
+[![Total Modules](https://img.shields.io/badge/Algorithms-23%20Modules-blue?style=for-the-badge&logo=cpp)](https://github.com/myonathanlinkedin/cpp-systems-core)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/cpp-systems-core)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -21,20 +21,21 @@
 | 6 | **Raft Consensus Protocol Leader Election State Engine** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_065642_raft_consensus_protocol_leader/main.cpp) |
 | 7 | **CYK Parsing Algorithm for Context-Free Grammars** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_002420_cyk_parsing_algorithm_for_cont/core.cpp) |
 | 8 | **Near-Optimal Oracle Bounds for Isotropic Rounding** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_030232_near-optimal_oracle_bounds_for/core.cpp) |
-| 9 | **Async Concurrency: Where does the scheduler live?** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_042748_async_concurrency__where_does/engine.cpp) |
-| 10 | **Finding Gaussian Structure in Bosonic States** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_063252_finding_gaussian_structure_in/engine.cpp) |
+| 9 | **Async Concurrency: Where does the scheduler live?** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_042748_async_concurrency__where_does/main.cpp) |
+| 10 | **Finding Gaussian Structure in Bosonic States** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_063252_finding_gaussian_structure_in/main.cpp) |
 | 11 | **The Deutsch-Jozsa Algorithm Explained: Quantum Complexity & Qiskit** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_080127_the_deutsch-jozsa_algorithm_ex/core.cpp) |
 | 12 | **Tarjan Strongly Connected Components Search in Directed Graphs** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_091226_tarjan_strongly_connected_comp/core.cpp) |
 | 13 | **Cuckoo Filter High-Efficiency Deletion Structure** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_101513_cuckoo_filter_high-efficiency/core.cpp) |
-| 14 | **B-Tree Multiway Balanced Search Tree Node Splitter** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_102026_b-tree_multiway_balanced_searc/engine.cpp) |
+| 14 | **B-Tree Multiway Balanced Search Tree Node Splitter** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_102026_b-tree_multiway_balanced_searc/main.cpp) |
 | 15 | **Thread-Safe Bounded Blocking Queue with Condition Variables** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_150619_thread-safe_bounded_blocking_q/core.cpp) |
 | 16 | **Thread-Safe Bounded Blocking Queue with Condition Variables** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_153242_thread-safe_bounded_blocking_q/core.cpp) |
 | 17 | **Skip List Probabilistic Search and Insertion Engine** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_161200_skip_list_probabilistic_search) |
 | 18 | **Custom Buddy Memory Allocation System** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_230256_custom_buddy_memory_allocation/core.cpp) |
-| 19 | **Count-Min Sketch Heavy Hitters Frequency Estimator** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_040234_count-min_sketch_heavy_hitters/engine.cpp) |
-| 20 | **NeMo-DCR: Bit-Exact Delta-Compressed Refit for Scalable Agentic RL at Trillion-Parameter** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_072337_nemo-dcr__bit-exact_delta-comp/engine.cpp) |
-| 21 | **Trie Prefix Tree for Auto-Completion with Frequency Ranking** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_104401_trie_prefix_tree_for_auto-comp/engine.cpp) |
+| 19 | **Count-Min Sketch Heavy Hitters Frequency Estimator** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_040234_count-min_sketch_heavy_hitters/main.cpp) |
+| 20 | **NeMo-DCR: Bit-Exact Delta-Compressed Refit for Scalable Agentic RL at Trillion-Parameter** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_072337_nemo-dcr__bit-exact_delta-comp/main.cpp) |
+| 21 | **Trie Prefix Tree for Auto-Completion with Frequency Ranking** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_104401_trie_prefix_tree_for_auto-comp/main.cpp) |
 | 22 | **CYK Parsing Algorithm for Context-Free Grammars** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_115844_cyk_parsing_algorithm_for_cont) |
+| 23 | **I built a free system design course where your architecture has to survive simulated** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_160552_i_built_a_free_system_design_c/core.cpp) |
 
 ---
 
@@ -63,4 +64,4 @@ g++ -std=c++20 main.cpp -O3 && ./a.out
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-07 14:04 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-07 16:06 UTC*</sub>
