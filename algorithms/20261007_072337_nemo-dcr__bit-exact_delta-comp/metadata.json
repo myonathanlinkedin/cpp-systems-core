@@ -1,0 +1,13 @@
+{
+  "topic": "NeMo-DCR: Bit-Exact Delta-Compressed Refit for Scalable Agentic RL at Trillion-Parameter",
+  "language": "C++",
+  "extension": ".cpp",
+  "category": "cpp",
+  "timestamp_utc": "2026-10-07T07:23:37.502581+00:00",
+  "source_file": "main.cpp",
+  "files": [
+    "types.hpp",
+    "engine.cpp",
+    "main.cpp"
+  ]
+}
