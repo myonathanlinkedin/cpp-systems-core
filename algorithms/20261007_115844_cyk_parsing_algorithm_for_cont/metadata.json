@@ -1,0 +1,11 @@
+{
+  "topic": "CYK Parsing Algorithm for Context-Free Grammars",
+  "language": "C++",
+  "extension": ".cpp",
+  "category": "cpp",
+  "timestamp_utc": "2026-10-07T11:58:44.178832+00:00",
+  "source_file": "types.hpp",
+  "files": [
+    "types.hpp"
+  ]
+}
