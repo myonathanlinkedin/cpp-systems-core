@@ -1,0 +1,13 @@
+{
+  "topic": "Nuraft - C++ implementation of Raft core logic as a replication library",
+  "language": "C++",
+  "extension": ".cpp",
+  "category": "cpp",
+  "timestamp_utc": "2026-10-08T07:58:30.578157+00:00",
+  "source_file": "types.hpp",
+  "files": [
+    "types.hpp",
+    "core.hpp",
+    "engine.cpp"
+  ]
+}
