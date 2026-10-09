@@ -1,0 +1,13 @@
+{
+  "topic": "B-Tree Multiway Balanced Search Tree Node Splitter",
+  "language": "C++",
+  "extension": ".cpp",
+  "category": "cpp",
+  "timestamp_utc": "2026-10-09T13:44:28.005861+00:00",
+  "source_file": "main.cpp",
+  "files": [
+    "types.hpp",
+    "engine.cpp",
+    "main.cpp"
+  ]
+}
