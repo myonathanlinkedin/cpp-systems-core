@@ -1,0 +1,8 @@
+{
+  "topic": "Raft Consensus Protocol Leader Election State Engine",
+  "language": "C++",
+  "extension": ".cpp",
+  "category": "cpp",
+  "timestamp_utc": "2026-10-05T06:56:42.252397+00:00",
+  "source_file": "main.cpp"
+}
