@@ -39,6 +39,7 @@
 | 24 | **Dijkstra Shortest Path with Fibonacci Heap Priority Queue** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_005058_dijkstra_shortest_path_with_fi/core.cpp) |
 | 25 | **Thread-Safe Bounded Blocking Queue with Condition Variables** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_005414_thread-safe_bounded_blocking_q/main.cpp) |
 | 26 | **How Databases Scale to Millions of Reads and Writes per Second** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_060216_how_databases_scale_to_million/core.cpp) |
+| 27 | **Rat s Register Allocator** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_105011_rat_s_register_allocator/core.cpp) |
 
 ---
 
@@ -67,4 +68,4 @@ g++ -std=c++20 main.cpp -O3 && ./a.out
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-11 08:11 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-11 10:50 UTC*</sub>
