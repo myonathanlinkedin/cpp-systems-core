@@ -39,7 +39,6 @@
 | 24 | **Dijkstra Shortest Path with Fibonacci Heap Priority Queue** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_005058_dijkstra_shortest_path_with_fi/core.cpp) |
 | 25 | **Thread-Safe Bounded Blocking Queue with Condition Variables** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_005414_thread-safe_bounded_blocking_q/main.cpp) |
 | 26 | **How Databases Scale to Millions of Reads and Writes per Second** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_060216_how_databases_scale_to_million/core.cpp) |
-| 27 | **Hello Algo - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_081112_hello_algo_-_hello__english__p/core.cpp) |
 
 ---
 
