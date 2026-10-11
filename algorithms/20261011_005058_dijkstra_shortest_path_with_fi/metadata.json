@@ -1,0 +1,14 @@
+{
+  "topic": "Dijkstra Shortest Path with Fibonacci Heap Priority Queue",
+  "language": "C++",
+  "extension": ".cpp",
+  "category": "cpp",
+  "timestamp_utc": "2026-10-11T00:50:58.650732+00:00",
+  "source_file": "main.cpp",
+  "files": [
+    "types.hpp",
+    "core.hpp",
+    "core.cpp",
+    "main.cpp"
+  ]
+}
