@@ -1,0 +1,12 @@
+{
+  "topic": "Eventsourcing",
+  "language": "C++",
+  "extension": ".cpp",
+  "category": "cpp",
+  "timestamp_utc": "2026-10-13T15:01:17.210636+00:00",
+  "source_file": "main.cpp",
+  "files": [
+    "core.cpp",
+    "main.cpp"
+  ]
+}
