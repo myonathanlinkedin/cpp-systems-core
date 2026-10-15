@@ -2,7 +2,7 @@
 > Modern C++20 low-latency data structures, SIMD optimizations, and cache-coherent algorithms. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/cpp-systems-core/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-32%20Modules-blue?style=for-the-badge&logo=cpp)](https://github.com/myonathanlinkedin/cpp-systems-core)
+[![Total Modules](https://img.shields.io/badge/Algorithms-33%20Modules-blue?style=for-the-badge&logo=cpp)](https://github.com/myonathanlinkedin/cpp-systems-core)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/cpp-systems-core)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -53,6 +53,7 @@
 | 30 | **Tight asymptotic competitive ratio for the Canadian Traveller Problem on unit-weighted** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261012_230110_tight_asymptotic_competitive_r/core.cpp) |
 | 31 | **Eventsourcing** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261013_150117_eventsourcing/core.cpp) |
 | 32 | **Tlaplus** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261014_170115_tlaplus/main.cpp) |
+| 33 | **HyperLogLog Cardinality Estimation Algorithm** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261015_150115_hyperloglog_cardinality_estima/core.cpp) |
 
 ---
 
@@ -81,4 +82,4 @@ g++ -std=c++20 main.cpp -O3 && ./a.out
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-14 17:01 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-15 15:01 UTC*</sub>
