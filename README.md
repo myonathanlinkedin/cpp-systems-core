@@ -2,7 +2,7 @@
 > Modern C++20 low-latency data structures, SIMD optimizations, and cache-coherent algorithms. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/cpp-systems-core/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-34%20Modules-blue?style=for-the-badge&logo=cpp)](https://github.com/myonathanlinkedin/cpp-systems-core)
+[![Total Modules](https://img.shields.io/badge/Algorithms-35%20Modules-blue?style=for-the-badge&logo=cpp)](https://github.com/myonathanlinkedin/cpp-systems-core)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/cpp-systems-core)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -29,32 +29,33 @@
 | 6 | **CYK Parsing Algorithm for Context-Free Grammars** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_002420_cyk_parsing_algorithm_for_cont/core.cpp) |
 | 7 | **Tarjan Strongly Connected Components Search in Directed Graphs** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_091226_tarjan_strongly_connected_comp/core.cpp) |
 | 8 | **Cuckoo Filter High-Efficiency Deletion Structure** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_101513_cuckoo_filter_high-efficiency/core.cpp) |
-| 9 | **B-Tree Multiway Balanced Search Tree Node Splitter** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_102026_b-tree_multiway_balanced_searc/engine.cpp) |
+| 9 | **B-Tree Multiway Balanced Search Tree Node Splitter** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_102026_b-tree_multiway_balanced_searc/main.cpp) |
 | 10 | **Thread-Safe Bounded Blocking Queue with Condition Variables** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_150619_thread-safe_bounded_blocking_q/core.cpp) |
 | 11 | **Thread-Safe Bounded Blocking Queue with Condition Variables** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_153242_thread-safe_bounded_blocking_q/core.cpp) |
 | 12 | **Skip List Probabilistic Search and Insertion Engine** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_161200_skip_list_probabilistic_search) |
 | 13 | **Custom Buddy Memory Allocation System** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_230256_custom_buddy_memory_allocation/core.cpp) |
-| 14 | **Count-Min Sketch Heavy Hitters Frequency Estimator** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_040234_count-min_sketch_heavy_hitters/engine.cpp) |
-| 15 | **Trie Prefix Tree for Auto-Completion with Frequency Ranking** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_104401_trie_prefix_tree_for_auto-comp/engine.cpp) |
+| 14 | **Count-Min Sketch Heavy Hitters Frequency Estimator** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_040234_count-min_sketch_heavy_hitters/main.cpp) |
+| 15 | **Trie Prefix Tree for Auto-Completion with Frequency Ranking** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_104401_trie_prefix_tree_for_auto-comp/main.cpp) |
 | 16 | **CYK Parsing Algorithm for Context-Free Grammars** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_115844_cyk_parsing_algorithm_for_cont) |
 | 17 | **Attention via Black-Box Vector Search** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_000212_attention_via_black-box_vector) |
-| 18 | **B-Tree Multiway Balanced Search Tree Node Splitter** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_134428_b-tree_multiway_balanced_searc/engine.cpp) |
+| 18 | **B-Tree Multiway Balanced Search Tree Node Splitter** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_134428_b-tree_multiway_balanced_searc/main.cpp) |
 | 19 | **Two-Phase Commit Protocol Coordinator and Participant State Machine** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_170555_two-phase_commit_protocol_coor/core.cpp) |
-| 20 | **Cache-Oblivious Matrix Transposition Algorithm** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_010238_cache-oblivious_matrix_transpo/engine.cpp) |
-| 21 | **Cache-Oblivious Matrix Transposition Algorithm** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_050240_cache-oblivious_matrix_transpo/engine.cpp) |
-| 22 | **B-Tree Multiway Balanced Search Tree Node Splitter** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_131050_b-tree_multiway_balanced_searc/engine.cpp) |
+| 20 | **Cache-Oblivious Matrix Transposition Algorithm** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_010238_cache-oblivious_matrix_transpo/main.cpp) |
+| 21 | **Cache-Oblivious Matrix Transposition Algorithm** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_050240_cache-oblivious_matrix_transpo/main.cpp) |
+| 22 | **B-Tree Multiway Balanced Search Tree Node Splitter** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_131050_b-tree_multiway_balanced_searc/main.cpp) |
 | 23 | **B-Tree Multiway Balanced Search Tree Node Splitter** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_182824_b-tree_multiway_balanced_searc/core.cpp) |
 | 24 | **Dijkstra Shortest Path with Fibonacci Heap Priority Queue** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_005058_dijkstra_shortest_path_with_fi/core.cpp) |
-| 25 | **Thread-Safe Bounded Blocking Queue with Condition Variables** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_005414_thread-safe_bounded_blocking_q/engine.cpp) |
+| 25 | **Thread-Safe Bounded Blocking Queue with Condition Variables** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_005414_thread-safe_bounded_blocking_q/main.cpp) |
 | 26 | **How Databases Scale to Millions of Reads and Writes per Second** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_060216_how_databases_scale_to_million/core.cpp) |
-| 27 | **B-Tree Multiway Balanced Search Tree Node Splitter** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_151750_b-tree_multiway_balanced_searc/engine.cpp) |
+| 27 | **B-Tree Multiway Balanced Search Tree Node Splitter** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_151750_b-tree_multiway_balanced_searc/main.cpp) |
 | 28 | **GPU-resident Execution for Timing-predictable Sensor Processing Systems** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261012_090120_gpu-resident_execution_for_tim/core.cpp) |
 | 29 | **Benchmarking Content-Defined Chunking Algorithms for Data Deduplication** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261012_170112_benchmarking_content-defined_c/core.cpp) |
 | 30 | **Tight asymptotic competitive ratio for the Canadian Traveller Problem on unit-weighted** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261012_230110_tight_asymptotic_competitive_r/core.cpp) |
 | 31 | **Eventsourcing** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261013_150117_eventsourcing/core.cpp) |
 | 32 | **A Simplified Layout Algebra for GPU Kernels** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261013_layout_algebra_gpu/core.cpp) |
-| 33 | **Formal Specification State Verification Engine** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261014_170115_formal_specification_state_engine/engine.cpp) |
+| 33 | **Formal Specification State Verification Engine** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261014_170115_formal_specification_state_engine/main.cpp) |
 | 34 | **HyperLogLog Cardinality Estimation Algorithm** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261015_150115_hyperloglog_cardinality_estima/core.cpp) |
+| 35 | **B-Tree Multiway Balanced Search Tree Node Splitter** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261016_230154_b-tree_multiway_balanced_searc/core.cpp) |
 
 ---
 
@@ -83,4 +84,4 @@ g++ -std=c++20 main.cpp -O3 && ./a.out
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-16 05:48 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-16 23:02 UTC*</sub>
