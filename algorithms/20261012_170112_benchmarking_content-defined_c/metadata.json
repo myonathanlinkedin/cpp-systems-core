@@ -1,0 +1,14 @@
+{
+  "topic": "Benchmarking Content-Defined Chunking Algorithms for Data Deduplication",
+  "language": "C++",
+  "extension": ".cpp",
+  "category": "cpp",
+  "timestamp_utc": "2026-10-12T17:01:12.007208+00:00",
+  "source_file": "main.cpp",
+  "files": [
+    "types.hpp",
+    "core.hpp",
+    "core.cpp",
+    "main.cpp"
+  ]
+}
