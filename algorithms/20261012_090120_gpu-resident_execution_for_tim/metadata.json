@@ -1,0 +1,14 @@
+{
+  "topic": "GPU-resident Execution for Timing-predictable Sensor Processing Systems",
+  "language": "C++",
+  "extension": ".cpp",
+  "category": "cpp",
+  "timestamp_utc": "2026-10-12T09:01:20.024967+00:00",
+  "source_file": "main.cpp",
+  "files": [
+    "types.hpp",
+    "core.hpp",
+    "core.cpp",
+    "main.cpp"
+  ]
+}

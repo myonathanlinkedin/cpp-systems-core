@@ -1,0 +1,14 @@
+{
+  "topic": "A Simplified Layout Algebra for GPU Kernels",
+  "language": "C++",
+  "extension": ".cpp",
+  "category": "cpp",
+  "timestamp_utc": "2026-10-13T12:34:28.562324+00:00",
+  "source_file": "main.cpp",
+  "files": [
+    "types.hpp",
+    "core.hpp",
+    "core.cpp",
+    "main.cpp"
+  ]
+}

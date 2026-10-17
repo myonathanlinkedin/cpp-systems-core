@@ -1,0 +1,14 @@
+{
+  "topic": "Cache-Oblivious Matrix Transposition Algorithm",
+  "language": "C++",
+  "extension": ".cpp",
+  "category": "cpp",
+  "timestamp_utc": "2026-10-10T01:02:38.316238+00:00",
+  "source_file": "main.cpp",
+  "files": [
+    "types.hpp",
+    "core.hpp",
+    "engine.cpp",
+    "main.cpp"
+  ]
+}
