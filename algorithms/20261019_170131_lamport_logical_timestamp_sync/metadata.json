@@ -1,0 +1,14 @@
+{
+  "topic": "Lamport Logical Timestamp Synchronization Engine",
+  "language": "C++",
+  "extension": ".cpp",
+  "category": "cpp",
+  "timestamp_utc": "2026-10-19T17:01:31.091687+00:00",
+  "source_file": "main.cpp",
+  "files": [
+    "types.hpp",
+    "core.hpp",
+    "core.cpp",
+    "main.cpp"
+  ]
+}

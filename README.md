@@ -2,7 +2,7 @@
 > Modern C++20 low-latency data structures, SIMD optimizations, and cache-coherent algorithms. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/cpp-systems-core/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-36%20Modules-blue?style=for-the-badge&logo=cpp)](https://github.com/myonathanlinkedin/cpp-systems-core)
+[![Total Modules](https://img.shields.io/badge/Algorithms-37%20Modules-blue?style=for-the-badge&logo=cpp)](https://github.com/myonathanlinkedin/cpp-systems-core)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/cpp-systems-core)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -57,6 +57,7 @@
 | 34 | **HyperLogLog Cardinality Estimation Algorithm** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261015_150115_hyperloglog_cardinality_estima/core.cpp) |
 | 35 | **B-Tree Multiway Balanced Search Tree Node Splitter** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261016_230154_b-tree_multiway_balanced_searc/core.cpp) |
 | 36 | **Kruskal Minimum Spanning Tree with Disjoint-Set Union** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261018_190120_kruskal_minimum_spanning_tree/core.cpp) |
+| 37 | **Lamport Logical Timestamp Synchronization Engine** | cpp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261019_170131_lamport_logical_timestamp_sync/core.cpp) |
 
 ---
 
@@ -85,4 +86,4 @@ g++ -std=c++20 main.cpp -O3 && ./a.out
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-18 19:01 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-19 17:01 UTC*</sub>
