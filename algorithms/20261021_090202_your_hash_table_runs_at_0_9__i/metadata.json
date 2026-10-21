@@ -1,0 +1,14 @@
+{
+  "topic": "Your hash table runs at 0.9. Its probe budget binds at 0.277. The load factor is not the",
+  "language": "C++",
+  "extension": ".cpp",
+  "category": "cpp",
+  "timestamp_utc": "2026-10-21T09:02:02.650408+00:00",
+  "source_file": "main.cpp",
+  "files": [
+    "types.hpp",
+    "core.hpp",
+    "core.cpp",
+    "main.cpp"
+  ]
+}
