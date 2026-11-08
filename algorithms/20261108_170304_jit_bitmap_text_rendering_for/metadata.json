@@ -1,0 +1,14 @@
+{
+  "topic": "JIT bitmap text rendering for microcontrollers",
+  "language": "C++",
+  "extension": ".cpp",
+  "category": "cpp",
+  "timestamp_utc": "2026-11-08T17:03:04.331388+00:00",
+  "source_file": "main.cpp",
+  "files": [
+    "types.hpp",
+    "core.hpp",
+    "engine.cpp",
+    "main.cpp"
+  ]
+}
