@@ -1,0 +1,14 @@
+{
+  "topic": "Aether-TreeIndex Spatial Index for Multidimensional Bounding Boxes",
+  "language": "C++",
+  "extension": ".cpp",
+  "category": "cpp",
+  "timestamp_utc": "2026-11-14T05:01:33.790538+00:00",
+  "source_file": "main.cpp",
+  "files": [
+    "types.hpp",
+    "core.hpp",
+    "core.cpp",
+    "main.cpp"
+  ]
+}
