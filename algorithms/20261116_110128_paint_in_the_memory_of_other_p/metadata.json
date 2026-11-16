@@ -1,0 +1,13 @@
+{
+  "topic": "Paint in the memory of other programs",
+  "language": "C++",
+  "extension": ".cpp",
+  "category": "cpp",
+  "timestamp_utc": "2026-11-16T11:01:28.625437+00:00",
+  "source_file": "main.cpp",
+  "files": [
+    "types.hpp",
+    "engine.cpp",
+    "main.cpp"
+  ]
+}
