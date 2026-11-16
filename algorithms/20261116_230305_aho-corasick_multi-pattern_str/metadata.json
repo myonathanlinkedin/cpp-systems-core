@@ -1,0 +1,13 @@
+{
+  "topic": "Aho-Corasick Multi-Pattern String Searching Automaton",
+  "language": "C++",
+  "extension": ".cpp",
+  "category": "cpp",
+  "timestamp_utc": "2026-11-16T23:03:05.820274+00:00",
+  "source_file": "main.cpp",
+  "files": [
+    "types.hpp",
+    "engine.cpp",
+    "main.cpp"
+  ]
+}
