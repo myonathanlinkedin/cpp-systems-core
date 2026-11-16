@@ -1,0 +1,13 @@
+{
+  "topic": "Your AI Agent s Memory Is Not Its Source of Truth: The Hidden Risk of Stale Context",
+  "language": "C++",
+  "extension": ".cpp",
+  "category": "cpp",
+  "timestamp_utc": "2026-11-16T11:02:24.407467+00:00",
+  "source_file": "main.cpp",
+  "files": [
+    "core.hpp",
+    "core.cpp",
+    "main.cpp"
+  ]
+}
