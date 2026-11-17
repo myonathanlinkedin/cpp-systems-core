@@ -1,0 +1,12 @@
+{
+  "topic": "Zero-Copy Byte Packet Ring Buffer Dispatcher",
+  "language": "C++",
+  "extension": ".cpp",
+  "category": "cpp",
+  "timestamp_utc": "2026-11-17T13:02:28.034760+00:00",
+  "source_file": "main.cpp",
+  "files": [
+    "core.cpp",
+    "main.cpp"
+  ]
+}
