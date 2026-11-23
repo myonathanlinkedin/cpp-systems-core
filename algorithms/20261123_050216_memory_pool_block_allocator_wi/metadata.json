@@ -1,0 +1,12 @@
+{
+  "topic": "Memory Pool Block Allocator with Free List",
+  "language": "C++",
+  "extension": ".cpp",
+  "category": "cpp",
+  "timestamp_utc": "2026-11-23T05:02:16.124959+00:00",
+  "source_file": "main.cpp",
+  "files": [
+    "core.cpp",
+    "main.cpp"
+  ]
+}
