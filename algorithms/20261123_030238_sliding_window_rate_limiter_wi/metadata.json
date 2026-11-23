@@ -1,0 +1,12 @@
+{
+  "topic": "Sliding Window Rate Limiter with Distributed Token Bucket",
+  "language": "C++",
+  "extension": ".cpp",
+  "category": "cpp",
+  "timestamp_utc": "2026-11-23T03:02:38.546610+00:00",
+  "source_file": "main.cpp",
+  "files": [
+    "core.cpp",
+    "main.cpp"
+  ]
+}
