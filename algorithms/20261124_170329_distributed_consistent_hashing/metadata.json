@@ -1,0 +1,14 @@
+{
+  "topic": "Distributed Consistent Hashing Router with Virtual Nodes",
+  "language": "C++",
+  "extension": ".cpp",
+  "category": "cpp",
+  "timestamp_utc": "2026-11-24T17:03:29.182998+00:00",
+  "source_file": "main.cpp",
+  "files": [
+    "types.hpp",
+    "core.hpp",
+    "core.cpp",
+    "main.cpp"
+  ]
+}
