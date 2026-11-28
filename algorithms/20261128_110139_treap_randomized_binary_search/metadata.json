@@ -1,0 +1,13 @@
+{
+  "topic": "Treap Randomized Binary Search Tree with Heap Priorities",
+  "language": "C++",
+  "extension": ".cpp",
+  "category": "cpp",
+  "timestamp_utc": "2026-11-28T11:01:39.661769+00:00",
+  "source_file": "main.cpp",
+  "files": [
+    "types.hpp",
+    "engine.cpp",
+    "main.cpp"
+  ]
+}
